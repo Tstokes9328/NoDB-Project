@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css?family=Press+Start+2P');
+
+.App {
+  text-align: center;
+  color: yellow;
+  font-family: 'Press Start 2P', cursive;
+  font-size: 10px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+body {
+  background-image: url('./Images/starwars-1525124426480-1964.jpg');
+  background-size: cover;
+}
